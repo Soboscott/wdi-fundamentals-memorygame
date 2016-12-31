@@ -1,3 +1,38 @@
 /* This is a multi-line
 comment. Add your CSS code
 from Unit 1 - 5 below  */
+h1{
+	color: rgb(2, 132, 130);
+	text-align: center;
+	}
+h2{
+	color: #ffd700;
+	text-align: center;
+}
+.board{
+	height:80%;
+	width: 50%;
+	display: inline-block;
+
+}
+.card{
+	padding-top:200px;
+	padding-right: 150px;
+	width:150px;
+	border: 1px black;
+	background-color: yellow;
+	border-radius: 10px;
+	float: left;
+	margin: 8%
+
+
+}
+.p{
+	text-align: center;
+}
+.name{
+	color: #ff0000;
+}
+a:hover{
+	background-color: red}
+}
